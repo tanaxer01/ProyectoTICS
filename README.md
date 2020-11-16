@@ -1,10 +1,9 @@
 # PROYECTO TICs - "Monitoreo de Incendios forestales"
 
 --Contenidos
-    -- Descrip
-    -- Reqs
-    -- instalacion
+    -- Descripcion
+    -- Requisitos
+    -- Instalacion
     -- linkear informes 
 
-------------------------------------
-Holiwis
+-------------------------------
