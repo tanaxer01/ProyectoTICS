@@ -1,0 +1,15 @@
+[Unit]
+Description = FireFire® app
+
+[Service]
+ExecStart=/home/ubuntu/newServer/app.js
+Restart=always
+User=nobody
+Group=nogroup
+Enviroment=PATH=/usr/bin:/usr/local/bin
+Enviroment=NODE_ENV=production
+WorkingDirectory=/home/ubuntu/newServer
+
+[Install]
+WantedBy=multi-user.target
+
